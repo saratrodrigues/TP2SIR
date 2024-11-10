@@ -26,12 +26,12 @@ Make sure you have the following installed on your machine:
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/student-management-app.git
+    git clone https://github.com/saratrodrigues/TP2SIR.git
     ```
 
 2. Navigate into the project directory:
     ```bash
-    cd student-management-app
+    cd TP2SIR
     ```
 
 3. Install the project dependencies:
@@ -50,7 +50,7 @@ Make sure you have the following installed on your machine:
 
 ## Link to the Application on Render.com
 
-The hosted version of the application can be accessed at [https://student-management-app.onrender.com](https://student-management-app.onrender.com).
+The hosted version of the application can be accessed at https://tp2sir.onrender.com.
 
 ---
 
@@ -170,8 +170,7 @@ The students resource expects data in the following format:
     "year": Integer
     }
 ``` 
-#### id: 
-    A unique identifier for the student (auto-incremented).
+#### id: A unique identifier for the student (auto-incremented).
 #### name: 
     The student's name.
 #### course: 
